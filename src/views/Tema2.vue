@@ -55,7 +55,6 @@
           span Efecto de débitos y créditos, frente a Activos y Pasivos
         .tabla-a.color-acento-contenido.mb-5
           table
-            caption Nota. SENA, (2021).
             thead
               tr(style="background-color: #F0F6F9")
                 th(colspan="3").text-center Efecto de débito y crédito, frente a Activos y Pasivos
@@ -87,7 +86,6 @@
           span Tipos de cargos hoteleros
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/6-mob.png", alt='“Tipos de cargos hoteleros” organizada en tres columnas. La primera columna, “Cargos o Créditos”, incluye: Habitaciones, Teléfonos, Room service, SPA, Lavandería, Eventos y Misceláneos. La segunda columna, “Ahorros o Débitos”, presenta: Abonos, Descuentos y Ajustes. La tercera columna, “Mixtos”, contiene: Traspasos, Anulaciones y Correcciones. Cada categoría está conectada mediante flechas descendentes que muestran la relación entre los conceptos. En la parte inferior derecha aparece una ilustración de una persona junto a un edificio de hotel, una maleta y un marcador de ubicación. El diseño utiliza tonos beige, amarillo y naranja sobre un fondo gris claro.')
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/6.png", alt='“Tipos de cargos hoteleros” organizada en tres columnas. La primera columna, “Cargos o Créditos”, incluye: Habitaciones, Teléfonos, Room service, SPA, Lavandería, Eventos y Misceláneos. La segunda columna, “Ahorros o Débitos”, presenta: Abonos, Descuentos y Ajustes. La tercera columna, “Mixtos”, contiene: Traspasos, Anulaciones y Correcciones. Cada categoría está conectada mediante flechas descendentes que muestran la relación entre los conceptos. En la parte inferior derecha aparece una ilustración de una persona junto a un edificio de hotel, una maleta y un marcador de ubicación. El diseño utiliza tonos beige, amarillo y naranja sobre un fondo gris claro.')
-        figcaption Nota. SENA, (2021). 
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Cargos según su origen

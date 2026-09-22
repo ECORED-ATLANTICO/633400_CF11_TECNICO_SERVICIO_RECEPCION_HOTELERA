@@ -93,7 +93,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/621602_CF11_DU.pdf',
+        download: 'downloads/633400_CF11_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -160,6 +160,17 @@ export default {
       link:
         'https://www.dian.gov.co/impuestos/sociedades/Paginas/obligadosfacturar.aspx',
     },
+    {
+      referencia:
+        'Ministerio de Hacienda y Crédito Público. (2016). Obligados a facturar. Decreto 1625 de 2016. Decreto Único Reglamentario en materia tributaria.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=83233',
+    },
+    {
+      referencia:
+        'Scheel, A. (1992). Control de alojamiento y contabilidad de huéspedes. Edinter.',
+      link: '',
+    },
   ],
   creditos: [
     {
@@ -188,7 +199,7 @@ export default {
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -218,12 +229,12 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -233,7 +244,7 @@ export default {
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

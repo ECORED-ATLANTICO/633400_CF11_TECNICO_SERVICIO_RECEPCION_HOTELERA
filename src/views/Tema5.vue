@@ -90,7 +90,6 @@
                 span Registro de Paid Out
               .tabla-a.color-acento-contenido.tabla-a--text-left
                 table
-                  caption Nota. SENA, (2026).
                   tbody
                     tr(style="background-color: #FFFFFF")
                       td(colspan="2") Monto de la transacción autorizada por el huésped
@@ -115,7 +114,6 @@
                 span Caso de devoluciones
               img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/6-mob.svg", alt="Dos ejemplos de devolución de anticipos en un hotel.")
               img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/6.svg", alt="Dos ejemplos de devolución de anticipos en un hotel.")
-              figcaption Nota. SENA, (2026).
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-5
       .row.justify-content-center.align-items-center(titulo="Documentos de soporte")

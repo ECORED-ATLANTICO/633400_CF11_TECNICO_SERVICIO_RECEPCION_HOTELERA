@@ -72,7 +72,6 @@
             span Impuesto al Valor Agregado - IVA
           .tabla-a.color-acento-contenido.tabla-a--text-left
             table
-              caption Nota. SENA, (2026).
               thead
                 tr(style="background-color: #F0F6F9")
                   th(colspan="2") Plurifásico acumulativo o en cascada
