@@ -16,16 +16,12 @@
           div.banner-text.shadow
             p.mb-0 Es un hecho inherente a la función del cajero, que quien desempeñe este rol debe tener competencias matemáticas básicas, aunque hoy en día se cuenta con muchos apoyos tecnológicos, la habilidad de hacer cálculos matemáticos correctamente le será de gran ayuda. El cajero debe estar en la capacidad de realizar todas las operaciones que afecten una cuenta huésped (sumar, restar, multiplicar, dividir, calcular descuentos, etc.) sin apoyo tecnológico, es un escenario que puede presentarse repentinamente. Por ejemplo, en un corte de energía.
 
-    .p-4.rounded-5.bg-secundario-s5.mb-4
-      p.mb-0.text-center #[strong Las operaciones matemáticas son:]
-
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-10.col-lg-5
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/2.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p Esta operación le será de gran ayuda, en la gestión de grupos. Simplificando grandes series de sumatorias, es también la base de la correcta aplicación de los descuentos expresados en porcentaje, cuya notación corresponde a un valor el cual se multiplica por un %. 
-        p.mb-0 Esta operación será su principal aliada cuando deba dividir una cuenta o un cargo en varias partes, una situación frecuente en la operación diaria de los hoteles.
+        p.mb-0 Esta operación le será de gran ayuda, en la gestión de grupos. Simplificando grandes series de sumatorias, es también la base de la correcta aplicación de los descuentos expresados en porcentaje, cuya notación corresponde a un valor el cual se multiplica por un %, será su principal aliada cuando deba dividir una cuenta o un cargo en varias partes, una situación frecuente en la operación diaria de los hoteles. 
 
     .p-4.rounded-5.bg-secundario-s5.mb-4
       p.mb-0 Aunque los registros contables se realicen en un sistema PMS estas operaciones básicas le servirán para la validación y el control de los registros, para realizar los arqueos y cierres de movimiento. Se sugiere tenerlas muy en cuenta si no se tiene acceso a sistemas computarizados.
