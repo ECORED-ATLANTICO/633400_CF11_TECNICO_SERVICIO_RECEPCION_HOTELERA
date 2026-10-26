@@ -29,7 +29,7 @@
               p.mb-0 A continuación, mencionamos algunas de las políticas más comunes del manejo de caja.
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 Fondo de Caja
+      h5.mb-0 Fondo de caja
 
     p.mb-5 A continuación, se informará detalladamente qué es un fondo de caja:
 
@@ -48,18 +48,18 @@
       .row.justify-content-center.align-items-center(titulo="Arqueos de caja")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p Este es un método de control que consiste en un recuento de todas las transacciones en un periodo determinado (débitos / créditos). Esta comprobación tiene como propósito ver si se ha contabilizado todo el dinero recibido y si el saldo que muestra el PMS (o planilla) es correcto. 
-          p.mb-0El dinero que se encuentra en la caja de recepción tiene un cierto grado de exposición al público y riesgo de robo, pérdida o simplemente de una contabilización errada. Se recomienda arquear la caja al menos una vez al día en cada turno. 
+          p.mb-0El El dinero que se encuentra en la caja de recepción tiene un cierto grado de exposición al público y riesgo de robo, pérdida o simplemente de una contabilización errada. Se recomienda arquear la caja al menos una vez al día en cada turno. 
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema3/4.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Procedimiento del arqueo de caja")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
-          p Como mencionamos el arqueo de caja, se trata de un recuento de las operaciones del día, como este se realiza en cualquier momento del día, debe ser rápido y con un procedimiento sencillo que puede ser el siguiente.
+          p Como mencionamos, el arqueo de caja, se trata de un recuento de las operaciones del día, como este se realiza en cualquier momento del día, debe ser rápido y con un procedimiento sencillo que puede ser el siguiente.
           ul.checklist.ms-3
             li
               p Contar todo el dinero en efectivo que hay en caja, y verificar los valores de otras formas de pago (tarjetas, moneda extranjera, créditos, etc.).
             li
-              p Solicitar al software de gestión (PMS) un reporte de caja, que nos indique el valor que debemos tener en ese momento. Si no se cuenta con sistema PMS, basta con sumar los valores de la planilla de control.
+              p Solicitar al <em>software</em> de gestión (PMS) un reporte de caja, que nos indique el valor que debemos tener en ese momento. Si no se cuenta con sistema PMS, basta con sumar los valores de la planilla de control.
             li
               p Al finalizar y comparar los valores físicos, con los controles tendremos un resultado que puede tener las siguientes conclusiones.
           p El arqueo contable es correcto: si arqueo físico coincide.
@@ -73,7 +73,7 @@
             img(src="@/assets/curso/tema3/5.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Pagos realizados en la caja")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
-          p Es una política de control, enfocada en darle orden al manejo del efectivo, funciona en si se autoriza o no realizar pagos en la caja de recepción por parte de la gerencia del hotel, en caso afirmativo se determina que pagos si se pueden realizar y cuáles no. Como todas las políticas estas se instauran en cada establecimiento.
+          p Es una política de control, enfocada en darle orden al manejo del efectivo, funciona en si se autoriza o no realizar pagos en la caja de recepción por parte de la gerencia del hotel, en caso afirmativo se determina qué pagos si se pueden realizar y cuáles no. Como todas las políticas estas se instauran en cada establecimiento.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema3/6.png", alt="")

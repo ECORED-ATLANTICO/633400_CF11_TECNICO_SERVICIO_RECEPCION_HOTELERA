@@ -52,7 +52,7 @@
               img(src="@/assets/curso/tema5/3.png", alt="")
           .crd_hover_txt--body.bg-acento-contenido-a5
             h4.mb-3.text-start Créditos
-            p.mb-0.text-start.text-custom Relaciona los descargos a la cuenta huésped como efecto de la cancelación de facturas, considerando básicamente efectivo, tarjetas de crédito o débito, divisas y particulares. Las columnas de descuento y depósito aplican como crédito al aplicarles dichas situaciones. (Scheel, 1992).
+            p.mb-0.text-start.text-custom Relaciona los descargos a la cuenta huésped como efecto de la cancelación de facturas, considerando básicamente efectivo, tarjetas de crédito o débito, divisas y particulares. Las columnas de descuento y depósito aplican como crédito al aplicarles dichas situaciones (Scheel, 1992).
 
     p.mb-4.mb-lg-5 Cuando el hotel cuenta con un sistema de administración, PMS, este hace el cálculo automático de los saldos de la cuenta huésped y genera un reporte de auditoría que detalla el balance.
 
@@ -87,7 +87,7 @@
               p.mb-4 Es el desembolso realizado por caja de recepción para cubrir un servicio externo que el huésped autoriza le sea cargado a su cuenta y por lo tanto afecta el balance del cajero en turno. Generalmente los hoteles aplican un cargo adicional a título de comisión por este servicio, sobre el cual se cobra IVA por ser un ingreso para el hotel, si se da este caso:
               .titulo-sexto.color-acento-contenido
                 h5 Tabla 3.
-                span Registro de Paid Out
+                span Registro de <em>Paid Out</em>
               .tabla-a.color-acento-contenido.tabla-a--text-left
                 table
                   tbody
@@ -112,8 +112,8 @@
               .titulo-sexto.color-acento-contenido.mb-4
                 h5 Figura 2.
                 span Caso de devoluciones
-              img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/6-mob.svg", alt="Dos ejemplos de devolución de anticipos en un hotel.")
-              img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/6.svg", alt="Dos ejemplos de devolución de anticipos en un hotel.")
+              img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/6-mob.svg", alt="Dos ejemplos de devolución de anticipos en un hotel. Caso A: Anticipo excede el consumo. Se muestra un anticipo reportado de $ 500.000 y un consumo total de $ 420.000. Como resultado, se genera una devolución de $ 80.000. Caso B: Devolución por tasa de cambio. Se presenta un consumo de $ 420.000 y una tasa de cambio del dólar de $3.350. El valor a pagar equivale a USD 125,38. Como el huésped entregó USD 130, se calcula una diferencia de USD 4,62. La devolución generada corresponde a $ 15.477. La información está organizada en dos recuadros paralelos con títulos resaltados en color naranja y fondo beige, facilitando la comparación entre ambos casos. ")
+              img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/6.svg", alt="Dos ejemplos de devolución de anticipos en un hotel. Caso A: Anticipo excede el consumo. Se muestra un anticipo reportado de $ 500.000 y un consumo total de $ 420.000. Como resultado, se genera una devolución de $ 80.000. Caso B: Devolución por tasa de cambio. Se presenta un consumo de $ 420.000 y una tasa de cambio del dólar de $3.350. El valor a pagar equivale a USD 125,38. Como el huésped entregó USD 130, se calcula una diferencia de USD 4,62. La devolución generada corresponde a $ 15.477. La información está organizada en dos recuadros paralelos con títulos resaltados en color naranja y fondo beige, facilitando la comparación entre ambos casos.")
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-5
       .row.justify-content-center.align-items-center(titulo="Documentos de soporte")
@@ -124,7 +124,7 @@
             img(src="@/assets/curso/tema5/6.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Soportes de débito")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
-          p Los movimientos de débito, como lo menciona Peña (2010), es decir los que aumentan la cuenta del cliente, deben tener como soporte, comandas o soportes de consumo debidamente firmadas por:
+          p Los movimientos de débito, como lo menciona Peña (2010) es decir los que aumentan la cuenta del cliente, deben tener como soporte, comandas o soportes de consumo deben ser firmadas por:
           p.mb-0 Cargos por los consumos en los diferentes ambientes del hotel (restaurante, bar, #[em room service], bar habitación, banquetes y eventos).
           p.mb-0 Cargos en los servicios de comunicaciones (Internet, teléfono, fax, etc.).
           p.mb-0 Cargos por los servicios de banquetes.
@@ -135,8 +135,8 @@
           p.mb-0 Transferencias de naturaleza débito (cargos asumidos de otras cuentas).
           p.mb-0 Cargos por consumos en negocios con los cuales el hotel mantenga convenios comerciales.
           p.mb-0 Los cargos por servicios de alojamiento, que se realizan en la auditoría nocturna se soportan en el contrato de alojamiento.
-          p.mb-0 Cargo por servicio de habitación. 
-          p.mb-0 Cargo por el impuesto a las ventas (IVA). 
+          p.mb-0 Cargo por servicio de habitación.
+          p.mb-0 Cargo por el impuesto a las ventas (IVA).
           p.mb-0 Cargo por el seguro hotelero. 
         .col-sm-8.col-lg-4.col-xl-3
           figure

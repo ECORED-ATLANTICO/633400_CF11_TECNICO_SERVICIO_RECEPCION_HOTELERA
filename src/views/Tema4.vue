@@ -49,7 +49,7 @@
             p.mb-0 $574.000____100 %
             p x =? ___ 30 %
           .row.justify-content-center(numero="3" titulo="Paso 3")
-            p Esta notación se lee: si $574.000 equivale al 100 %, ¿Cuánto es el 30 %? Tomando los valores en diagonal, se multiplica $574.000 por 30 y luego se divide ese valor en 100.
+            p Esta notación se lee: si $574.000 equivale al 100 %, ¿cuánto es el 30 %? Tomando los valores en diagonal, se multiplica $574.000 por 30 y luego se divide ese valor en 100.
             p De esta forma nuestra ecuación quedaría de la siguiente manera.
             img.w-290(src="@/assets/curso/tema4/4.svg", alt="").mb-3
             p Al despejar se eliminan los signos porcentuales, y resolviendo la multiplicación, tenemos

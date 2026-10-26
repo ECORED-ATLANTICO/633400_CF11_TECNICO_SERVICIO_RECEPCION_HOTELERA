@@ -27,7 +27,7 @@
               img(src="@/assets/curso/tema2/2.png", alt="")
           .crd_hover_txt--body.bg-secundario-s5
             h4.mb-3.text-start Ejemplos de activos
-            p.mb-0.text-start Incluyen la propiedad de un teléfono celular, un libro de texto, o dos boletos para un concierto.
+            p.mb-0.text-start Incluyen la propiedad de un teléfono celular, un libro de texto o dos boletos para un concierto.
     
       .col-lg-6.col-md-9.col-11
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -75,7 +75,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/5.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p Es importante la publicación precisa y oportuna de los cargos y pagos de los huéspedes, para mantener registros financieros precisos, ya que el huésped puede decidir hacer #[em check out] / salida, en cualquier momento durante el día y requerirá la información precisa en ese momento.
+        p Es importante la publicación precisa y oportuna de los cargos y pagos de los huéspedes, para mantener registros financieros precisos, ya que el huésped puede decidir hacer <em>check-out</em> / salida, en cualquier momento durante el día y requerirá la información precisa en ese momento.
         .p-4.bg-secundario-s5.rounded-4.mb-4
           p.mb-0 El uso del Sistema de Administración de Hoteles o PMS (#[em Property Management System]) para el posteo aumenta la precisión y automatización de los cargos. Las opciones del módulo de caja del PMS, que se enumeran en la ilustración, permiten al cajero contabilizar de manera fácil y correcta los cargos y pagos en los que incurre el huésped durante su estadía, a continuación, tipos de cargos hoteleros:
 
@@ -84,8 +84,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Tipos de cargos hoteleros
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/6-mob.png", alt='“Tipos de cargos hoteleros” organizada en tres columnas. La primera columna, “Cargos o Créditos”, incluye: Habitaciones, Teléfonos, Room service, SPA, Lavandería, Eventos y Misceláneos. La segunda columna, “Ahorros o Débitos”, presenta: Abonos, Descuentos y Ajustes. La tercera columna, “Mixtos”, contiene: Traspasos, Anulaciones y Correcciones. Cada categoría está conectada mediante flechas descendentes que muestran la relación entre los conceptos. En la parte inferior derecha aparece una ilustración de una persona junto a un edificio de hotel, una maleta y un marcador de ubicación. El diseño utiliza tonos beige, amarillo y naranja sobre un fondo gris claro.')
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/6.png", alt='“Tipos de cargos hoteleros” organizada en tres columnas. La primera columna, “Cargos o Créditos”, incluye: Habitaciones, Teléfonos, Room service, SPA, Lavandería, Eventos y Misceláneos. La segunda columna, “Ahorros o Débitos”, presenta: Abonos, Descuentos y Ajustes. La tercera columna, “Mixtos”, contiene: Traspasos, Anulaciones y Correcciones. Cada categoría está conectada mediante flechas descendentes que muestran la relación entre los conceptos. En la parte inferior derecha aparece una ilustración de una persona junto a un edificio de hotel, una maleta y un marcador de ubicación. El diseño utiliza tonos beige, amarillo y naranja sobre un fondo gris claro.')
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/6-mob.png", alt='“Tipos de cargos hoteleros” organizada en tres columnas. La primera columna, “Cargos o Créditos”, incluye: Habitaciones, Teléfonos, Room service, SPA, Lavandería, Eventos y Misceláneos. La segunda columna, “Ahorros o Débitos”, presenta: Abonos, Descuentos y Ajustes. La tercera columna, “Mixtos”, contiene: Traspasos, Anulaciones y Correcciones. Cada categoría está conectada mediante flechas descendentes que muestran la relación entre los conceptos. En la parte inferior derecha, muestra una recepcionista atendiendo a un huésped, un celular con la "Cuenta del huésped" y fondo blanco.')
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/6.png", alt='“Tipos de cargos hoteleros” organizada en tres columnas. La primera columna, “Cargos o Créditos”, incluye: Habitaciones, Teléfonos, Room service, SPA, Lavandería, Eventos y Misceláneos. La segunda columna, “Ahorros o Débitos”, presenta: Abonos, Descuentos y Ajustes. La tercera columna, “Mixtos”, contiene: Traspasos, Anulaciones y Correcciones. Cada categoría está conectada mediante flechas descendentes que muestran la relación entre los conceptos. En la parte inferior derecha, muestra una recepcionista atendiendo a un huésped, un celular con la "Cuenta del huésped" y fondo blanco.')
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Cargos según su origen
@@ -118,7 +118,7 @@
               img(src="@/assets/curso/tema2/9.png", alt="")
           .crd_hover_txt--body.bg-acento-contenido-a5
             h4.mb-3.text-center Caja de ambientes
-            p.mb-0.text-center Estas cajas están enlazadas (se comunican por medio una interfase) al sistema PMS principal. Son los llamados módulos POS (#[em Point of Sale]) o Puntos de venta. Están ubicados en los sitios donde huéspedes o clientes pueden realizar consumos, son conocidos como ambientes.
+            p.mb-0.text-center Estas cajas están enlazadas (se comunican por medio de una interfase) al sistema PMS principal. Son los llamados módulos POS (Point of Sale) o Puntos de venta. Están ubicados en los sitios donde huéspedes o clientes pueden realizar consumos, son conocidos como ambientes.
 
 
 

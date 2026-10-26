@@ -14,17 +14,17 @@
       .row.justify-content-center.z-2.mb-3
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow
-            p.mb-0 La industria turística y hotelera ha pasado por varios periodos de crisis o bonanzas, acorde con esto, se han promulgado normas específicas desde un marco normativo tributario. En general, un negocio hotelero está obligado a pagar impuestos nacionales (Impuesto al Valor Agregado - IVA e Impuesto sobre la renta) Impuestos departamentales, Impuesto Nacional al Consumo (INC) Impuestos locales (Industria y Comercio - ICA) y en algunos lugares, sobretasas a la explotación turística y hotelera. Conozcamos sobre ellos.
+            p.mb-0 La industria turística y hotelera ha pasado por varios periodos de crisis o bonanzas; Ha acorde con esto, se han promulgado normas específicas desde un marco normativo tributario. En general, un negocio hotelero está obligado a pagar impuestos nacionales (impuesto al valor agregado - IVA, e impuesto sobre la renta); impuestos departamentales; impuesto nacional al consumo (INC); impuestos locales (industria y comercio, ICA) y en algunos lugares, sobretasas a la explotación turística y hotelera. Conozcamos sobre ellos.
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 Impuesto al Valor Agregado (IVA)
+      h5.mb-0 Impuesto al valor agregado (IVA)
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/2.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p El impuesto al valor agregado o impuesto a las ventas, IVA es un gravamen que se cobra cuando los colombianos compran un producto o pagan un servicio. Para este impuesto existe una tarifa general del 19 % que se aplica a bienes y servicios, los cuales pueden ser gravados, excluidos o exentos. Tributariamente, a este impuesto se da la categoría de impuesto indirecto, porque se liquida sobre los costos de producción y sobre las ventas de la empresa, tiene una característica especial: es un impuesto plurifásico o en cascada, esto quiere decir que grava de manera sucesiva las ventas en todas las fases del proceso productivo, desde la producción hasta el consumo final, y es descontable entre dichas fases.
+        p El impuesto al valor agregado o impuesto a las ventas, IVA es un gravamen que se cobra cuando los colombianos compran un producto o pagan un servicio. Para este impuesto existe una tarifa general del 19 % que se aplica a bienes y servicios, los cuales pueden ser gravados, excluidos o exentos. Tributariamente, a este impuesto se da la categoría de impuesto indirecto, porque se liquida sobre los costos de producción y sobre las ventas de la empresa, tiene una característica especial: es un impuesto plurifásico o en cascada, esto quiere decir que grava de manera sucesiva las ventas en todas las fases del proceso, productivo desde la producción hasta el consumo final, y es descontable entre dichas fases.
         p.mb-0 Para comprender mejor el funcionamiento de este impuesto y su aplicación en la operación hotelera, analicemos el siguiente ejemplo práctico:
 
     LineaTiempoD.color-primario.variante-secundario.mb-4.with-table
@@ -47,7 +47,7 @@
         .col-lg-9
           p En este caso, hay tres momentos del impuesto (en cascada).
           p.mb-0 El comerciante debe declarar todo el IVA cobrado, a menos que tenga otros rubros sobre los cuales cruzar.
-          p.mb-0 El fabricante debe pagar el IVA, pero puede descontar el valor que pago al comerciante.
+          p.mb-0 El fabricante debe pagar el IVA, pero puede descontar el valor que pagó al comerciante.
           p.mb-0 El hotel que es el usuario final también debe pagar IVA por los servicios que presta, en su caso puede descontar el IVA que pagó por los tendidos.
         .col-sm-6.col-lg-3
           figure
@@ -59,7 +59,7 @@
             li
               p.mb-0 El comerciante declara $5.187.
             li
-              p.mb-0 El fabricante de lencería declara $6.788, que es la diferencia entre los $11.975 que cobró al hotel y los $5.187 de IVA que le pago al comerciante.
+              p.mb-0 El fabricante de lencería declara $6.788, que es la diferencia entre los $11.975 que cobró al hotel y los $5.187 de IVA que le pagó al comerciante.
             li
               p.mb-0 El hotel luego de su cierre contable declarará el IVA recaudado, descontando el IVA pagado. Es decir $16.525.
         .col-sm-6.col-lg-3
@@ -117,7 +117,7 @@
 
     .p-4.py-3.rounded-4.bg-acento-botones-a5.mb-5
 
-      p.mb-0 Existe una tarifa diferencial en el IVA, del 5 %, esta solo aplica para algunos productos de la canasta familiar y algunos servicios como los de protección. Adicionalmente hay una serie de productos, la mayoría de ellos de la canasta básica familiar (arroz, papa, leche, huevos, etc.) y de servicios básicos (educación, salud, entre otros.) que están exentos de IVA, es decir tiene tasa 0 %. (DIAN, 2021).
+      p.mb-0 Existe una tarifa diferencial en el IVA, del 5 %, esta solo aplica para algunos productos de la canasta familiar y algunos servicios como los de protección. Adicionalmente hay una serie de productos, la mayoría de ellos de la canasta básica familiar (arroz, papa, leche, huevos, etc.) y de servicios básicos (educación, salud, entre otros) que están exentos de IVA, es decir tiene tasa 0 % (DIAN, 2021).
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Impuesto al consumo
 
@@ -144,7 +144,7 @@
             img(src="@/assets/curso/tema1/8.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Tarifa del Impuesto Nacional al Consumo (INC) 8 %")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
-          p Vehículos automóviles de tipo familiar y los camperos cuyo valor FOB (o el equivalente del valor FOB) sea menor de USD $30.000, incluyendo sus accesorios.
+          p Vehículos automóviles de tipo familiar y los camperos cuyo valor FOB (o el equivalente del valor FOB) sea inferior a USD $30.000, incluyendo sus accesorios.
           p <em>Pick-up</em> cuyo valor FOB (o el equivalente del valor FOB) sea inferior a USD $30.000, incluyendo sus accesorios.  
           p Motocicletas con motor de émbolo (pistón) alternativo de cilindrada superior a 200 c.c. de conformidad con la clasificación establecida en el Estatuto Tributario.  
           p Yates y demás embarcaciones o barcos de recreo o deporte, incluidos botes de remo y canoas.
@@ -170,7 +170,7 @@
       .row.justify-content-center.z-2.mb-3
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow.bg-secundario-s5
-            p.mb-0 Las comidas preparadas en un hotel o establecimiento de expendio de alimentos y bebidas tienen una tarifa general de impuesto al consumo del 8 %. Hay que tener en cuenta la nota que dice “Este impuesto no es aplicable a las actividades de expendio de bebidas y comidas bajo franquicias”. Esto quiere decir es que si el hotel o restaurante funciona bajo el modelo de franquicia (normalmente marcas reconocidas como: Marriott, Hilton, GHL) al expendio de comidas y bebidas en estos establecimientos no se les aplica el 8 % de impoconsumo, si no el 19 % de la tarifa general del IVA.
+            p.mb-0 Las comidas preparadas en un hotel o establecimiento de expendio de alimentos y bebidas tienen una tarifa general de impuesto al consumo del 8 %. Hay que tener en cuenta la nota que dice “Este impuesto no es aplicable a las actividades de expendio de bebidas y comidas bajo franquicias”. Esto quiere decir que si el hotel o restaurante funciona bajo el modelo de franquicia (normalmente marcas reconocidas como: Marriott, Hilton, GHL) al expendio de comidas y bebidas en estos establecimientos no se les aplica el 8 % de impoconsumo, si no el 19 % de la tarifa general del IVA.
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Impuesto a la renta
@@ -194,7 +194,7 @@
     .p-4.py-3.rounded-4.bg-secundario-s5.mb-4
       .row.justify-content-center
         .col-xl-10
-          p.mb-0 La legislación tributaria contempla una tarifa especial del 9 % en el impuesto sobre la renta para las rentas derivadas de la prestación de servicios hoteleros que 9 cumplan los requisitos establecidos en el artículo 240 del Estatuto Tributario y las modificaciones introducidas por la Ley 2068 de 2020, incluyendo las condiciones relacionadas con la construcción, remodelación o ampliación de hoteles y los plazos definidos por la normativa vigente. 
+          p.mb-0 La legislación tributaria contempla una tarifa especial del 9 % en el impuesto sobre la renta para las rentas derivadas de la prestación de servicios hoteleros que cumplan los requisitos establecidos en el artículo 240 del Estatuto Tributario y las modificaciones introducidas por la Ley 2068 de 2020, incluyendo las condiciones relacionadas con la construcción, remodelación o ampliación de hoteles y los plazos definidos por la normativa vigente. 
   
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
@@ -224,7 +224,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
-        p.mb-4.mb-lg-0 Por otra parte, sobre los beneficios tributarios a las rentas hoteleras, específicamente los que otorgan los numerales 3 y 4 del artículo 207-2 del Estatuto Tributario (ET) es válido mencionar que, con la modificación que sufrió el artículo 240 del ET, los servicios hoteleros prestados en nuevos hoteles y en hoteles remodelados y/o ampliados de personas jurídicas pasaron de ser rentas exentas para ser gravadas con la tarifa del 9 %. En el caso de las personas naturales, la DIAN ha manifestado que dichas rentas deberán tratarlas como gravadas y tributar con las tarifas del artículo 241 del Estatuto Tributario. De cualquier manera, es importante mencionar que la normatividad tributaria cambia constantemente y que debe ser revisada y actualizada.
+        p.mb-4.mb-lg-0 Por otra parte, sobre los beneficios tributarios a las rentas hoteleras, específicamente los que otorgan los numerales 3 y 4 del artículo 207-2 del Estatuto Tributario (ET), es válido mencionar que, con la modificación que sufrió el artículo 240 del ET, los servicios hoteleros prestados en nuevos hoteles y en hoteles remodelados y/o ampliados de personas jurídicas pasaron de ser rentas exentas a ser gravadas con la tarifa del 9 %. En el caso de las personas naturales, la DIAN ha manifestado que dichas rentas deberán tratarlas como gravadas y tributar con las tarifas del artículo 241 del Estatuto Tributario. De cualquier manera, es importante mencionar que la normatividad tributaria cambia constantemente y que debe ser revisada y actualizada.
       .col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/15.png", alt="")

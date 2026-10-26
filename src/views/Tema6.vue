@@ -59,7 +59,7 @@
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           ul.checklist.ms-3
             li
-              p.mb-0 Cuenta con más de un establecimiento de comercio.
+              p.mb-0 Cuentan con más de un establecimiento de comercio.
             li
               p.mb-0 Desarrollen actividades bajo franquicia, concesión, regalía, autorización o cualquier otro sistema que implique la explotación de intangibles.
             li
@@ -70,7 +70,7 @@
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema6/16.png", alt="")
-      .row.justify-content-center.align-items-center(titulo="Requisitos Importantes:")
+      .row.justify-content-center.align-items-center(titulo="Requisitos importantes:")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           ul.checklist.ms-3
             li
@@ -87,19 +87,19 @@
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Requisitos para facturar
 
-    p.mb-4.mb-lg-5 El Art. 617. Establece los requisitos de la factura de venta para efectos tributarios, la expedición de factura a que se refiere el artículo 615 consiste en entregar el original de esta, con el lleno de los siguientes requisitos:
+    p.mb-4.mb-lg-5 El Articulo 617. Establece los requisitos de la factura de venta para efectos tributarios, la expedición de factura a que se refiere el artículo 615 consiste en entregar el original de esta, con el lleno de los siguientes requisitos:
 
     SlyderF(columnas="col-sm-6 col-xl-4 mb-5")
       .tarjeta.bg-img.bg-img--3.p-4.py-5.h-100
         .row.justify-content-center.mb-3
           .col-6
             img.w-90.mb-4(src='@/assets/curso/tema6/3.svg' alt='')
-        p.text-center Está denominada expresamente como factura de venta.
+        p.text-center Estar denominada expresamente como factura de venta.
       .tarjeta.bg-img.bg-img--3.p-4.py-5.h-100
         .row.justify-content-center.mb-3
           .col-6
             img.w-90.mb-4(src='@/assets/curso/tema6/4.svg' alt='')
-        p.text-center Apellidos y nombre o razón y NIT del vendedor o de quien presta el servicio.
+        p.text-center Apellidos y nombre o razón social y NIT del vendedor o de quien presta el servicio.
       .tarjeta.bg-img.bg-img--3.p-4.py-5.h-100
         .row.justify-content-center.mb-3
           .col-6
@@ -172,7 +172,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/13.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
         p Los folios maestros son cuentas que se utilizan para registrar los ingresos en los que no se hace uso de las habitaciones. En los sistemas informáticos o en el registro contable del hotel cuando una persona registra el ingreso el sistema abre un folio (no una factura), en este folio se harán los cargos de los consumos durante la estadía. Pero hay casos donde se necesita registrar consumos o ventas sin hacer uso de estos folios de habitación.
-        p.mb-0 Un caso clásico son las cuentas de banquetes, en estos casos cuando se hace uso de los salones de banquetes, no se usan habitaciones de alojamiento. Pero hay que registrar los consumos de alimentos y bebidas, servicios audiovisuales, etc. Es allí donde se abre una cuenta o folio maestro. Tiene las mismas propiedades y comportamiento de la cuenta huésped, excepto que tiene tarifa de alojamiento (0) cero y estadísticamente no afectan la ocupación del hotel.
+        p.mb-0 Un caso clásico son las cuentas de banquetes, en estos casos cuando se hace uso de los salones de banquetes, no se usan habitaciones de alojamiento. Pero hay que registrar los consumos de alimentos y bebidas, servicios audiovisuales, etc. Es allí donde se abre una cuenta o folio maestro. Tiene las mismas propiedades y comportamiento de la cuenta huésped, excepto que tiene tarifa de alojamiento cero (0) y estadísticamente no afecta la ocupación del hotel.
 
     .p-4.py-3.bg-secundario-s10.rounded-4.mb-5
       p.mb-0.text-center También tienen otros usos como:
@@ -197,7 +197,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/14.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p La división es un proceso que se va a encontrar en el día a día del trabajo de caja. Consiste en pasar cargos de un folio a otro dentro la misma cuenta huésped. Como mencionamos al momento del registro el sistema abre un folio para que se efectúen los cargos del cliente. Pero muchas veces por control de costos o por organización los clientes pedirán que los cargos de alojamiento se facturen aparte de los otros gastos. Esto puede suceder porque la habitación la cubre la empresa y los gastos extras el huésped o por otras razones.
+        p La división es un proceso que se va a encontrar en el día a día del trabajo de caja. Consiste en pasar cargos de un folio a otro dentro de la misma cuenta huésped. Como mencionamos al momento del registro el sistema abre un folio para que se efectúen los cargos del cliente. Pero muchas veces por control de costos o por organización los clientes pedirán que los cargos de alojamiento se facturen aparte de los otros gastos. Esto puede suceder porque la habitación la cubre la empresa y los gastos extras el huésped o por otras razones.
         p.mb-0 En los sistemas informáticos PMS, esta tarea es muy sencilla, ya que solo se debe marcar el cargo y pasarlo a otra ventana (así se conocen los subfolios dentro de la misma cuenta). Si no se utiliza sistema PMS, la tarea será un poco más engorrosa, ya que debe hacerse manualmente, y seguro bajo presión de tiempo al momento de la salida.
 
 </template>

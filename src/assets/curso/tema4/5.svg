@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="292" height="69" viewBox="0 0 292 69"><g transform="translate(-2400 9691)"><rect width="292" height="69" rx="8" transform="translate(2400 -9691)" fill="#e9f8fc"/><g transform="translate(1312 -11861)"><text transform="translate(1146.98 2178.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="17">$17.229.000</tspan></text><text transform="translate(1266.98 2192.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="17">$172.200</tspan></text><text transform="translate(1173.652 2211.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="17">100</tspan></text><text transform="translate(1146.98 2187.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="17">_______________</tspan></text><text transform="translate(1121 2192.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="17">x=</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="69" viewBox="0 0 292 69">
+  <g id="Grupo_1231300" data-name="Grupo 1231300" transform="translate(-2400 9691)">
+    <rect id="Rectángulo_747194" data-name="Rectángulo 747194" width="292" height="69" rx="8" transform="translate(2400 -9691)" fill="#e9f8fc"/>
+    <g id="Grupo_1230704" data-name="Grupo 1230704" transform="translate(1312 -11861)">
+      <text id="_17.220.000" data-name="$17.220.000" transform="translate(1146.98 2178.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="15">$17.220.000</tspan></text>
+      <text id="_172.200" data-name="= $172.200" transform="translate(1258.98 2192.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="15">= $172.200</tspan></text>
+      <text id="_100" data-name="100" transform="translate(1173.652 2211.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="15">100</tspan></text>
+      <text id="_______________" transform="translate(1146.98 2187.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="15">_______________</tspan></text>
+      <text id="x_" data-name="x=" transform="translate(1121 2192.691)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="15">x=</tspan></text>
+    </g>
+  </g>
+</svg>
